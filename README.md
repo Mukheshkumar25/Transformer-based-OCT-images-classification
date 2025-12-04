@@ -1,10 +1,5 @@
 ---
 
-# ✅ **FINAL COMPLETE README (Copy–Paste Ready)**
-
-```markdown
-# Retinal OCT Disease Classification using MobileViT-XS
-
 This project implements a lightweight **MobileViT-XS** model to classify retinal OCT (Optical Coherence Tomography) images into four categories:
 
 - **CNV** (Choroidal Neovascularization)
@@ -155,7 +150,3 @@ It is **not** approved for clinical diagnosis or medical decision-making.
 - MobileViT paper authors
 - OCT2017 dataset creators
 - PyTorch & Streamlit communities
-
-```
-
-```
