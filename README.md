@@ -48,7 +48,7 @@ oct_mobilevit_app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/OCT-MobileViT-Classification.git
+[git clone https://github.com/<your-username>/OCT-MobileViT-Classification.git](https://github.com/Mukheshkumar25/Transformer-based-OCT-images-classification.git)
 cd OCT-MobileViT-Classification
 ```
 
